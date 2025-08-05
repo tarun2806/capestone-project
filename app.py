@@ -10,7 +10,7 @@ st.title("💰 Salary Estimation App")
 st.markdown("### Predict your expected salary based on company experience!")
 
 # Cute animated gif
-st.image("/Users/tarun/Downloads/CAPESTONE PROJECT/Salary.jpg", caption="Let's predict!")
+st.image("https://share.google/images/4ITSHRel9B5RFMcJk", caption="Let's predict!")
 
 
 # Divider
